@@ -19,7 +19,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p><img src="https://cucumber.io/images/cucumber-logo.svg" alt="Cucumber Logo" width="500" height="174" /></p>
+<p><img src="https://cucumber.io/images/cucumber-logo.svg" alt="Cucumber Logo" width="300" height="104" /></p>
 <p>This Action Pack enables you to easily trigger Cucumber tests directly from your Automic Release Automation workflows &amp; export the testresults.</p>
 <p><strong>Pre-Requisites</strong></p>
 <ul>
